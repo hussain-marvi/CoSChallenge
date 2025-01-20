@@ -1,7 +1,4 @@
-import 'dart:math';
-
 import 'package:cos_challenge/core/constants/colors.dart';
-import 'package:cos_challenge/core/models/vehicle.dart';
 import 'package:cos_challenge/core/models/vehicle_choice.dart';
 import 'package:cos_challenge/view/widgets/vehicle_widget.dart';
 import 'package:flutter/material.dart';
